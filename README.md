@@ -1,0 +1,2 @@
+# ArcoLinuxB-jwm Calamares configuration
+
